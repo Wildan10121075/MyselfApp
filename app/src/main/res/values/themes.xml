@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyselfApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/dodgerblue</item>
+        <item name="colorPrimaryVariant">@color/dodgerblue</item>
+        <item name="android:statusBarColor">@color/dodgerblue</item>
+    </style>
+
+    <style name="Theme.MyselfApp" parent="Base.Theme.MyselfApp" />
+    
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/drill</item>
+    </style>
+
+    <style name="RoundCorner" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10dp</item>
+        <item name="color">@color/white</item>
+    </style>
+</resources>

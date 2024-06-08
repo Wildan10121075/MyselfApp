@@ -1,0 +1,107 @@
+<resources>
+    <!-- Resource Splash Screen -->
+    <string name="app_name">Myself App</string>
+    <string name="made_with">Wildan Permana</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Resource Menu Home -->
+    <string name="personal_data">--PERSONAL DATA--</string>
+    <string name="nama">Nama :</string>
+    <string name="wildan_permana">Wildan Permana</string>
+    <string name="tempat_tgl_lahir">Tempat/Tgl Lahir :</string>
+    <string name="bandung_20_oktober_2001">Bandung, 20 Oktober 2001</string>
+    <string name="usia">Usia :</string>
+    <string name="_23_tahun">22 Tahun</string>
+    <string name="jenis_kelamin">Jenis Kelamin :</string>
+    <string name="laki_laki">Laki - Laki</string>
+    <string name="status">Status :</string>
+    <string name="mahasiswa">Mahasiswa</string>
+
+    <string name="hobi">--HOBBY--</string>
+    <string name="basket">Basketball</string>
+    <string name="run">Running</string>
+    <string name="music">Music</string>
+    <string name="game">Games</string>
+
+    <string name="h_makes">--MAKES--</string>
+    <string name="fried_rice">Fried Rice</string>
+    <string name="meatballs">Meatballs</string>
+    <string name="spaghetti">Spaghetti</string>
+    <string name="h_mikes">--MIKES--</string>
+    <string name="avocado_juice">Avocado Juice</string>
+    <string name="lemon_tea">Lemon Tea</string>
+    <string name="coffee">Coffee</string>
+
+    <string name="interest">--INTEREST--</string>
+    <string name="design">Design</string>
+    <string name="programmer">Programming</string>
+
+    <string name="cita">--CITA-CITA--</string>
+    <string name="bisnisman">Enterpreneurship</string>
+
+    <!-- Resource Menu Profile -->
+
+    <string name="wildan_permana_header">WILDAN PERMANA</string>
+    <string name="contact">--CONTACT--</string>
+    <string name="no_wa">(+62) 083174603854</string>
+    <string name="email">wildanpermana1388@gmail.com</string>
+    <string name="ig">wildanprmn__</string>
+    <string name="clik_for_visit_my_instagram">click for visit my instagram</string>
+    <string name="lokasi">--LOKASI--</string>
+    <string name="address">Komplek Griya Jagabaya Blok C3/2A Desa Jagabaya Kecamatan Cimaung Kabupaten Bandung</string>
+    <string name="find_me">Find Me</string>
+    <string name="about">--ABOUT--</string>
+    <string name="about1">Aplikasi ini dibuat untuk memenuhi tugas besar UTS-PEMANDRO3</string>
+    <string name="about2">Nama : Wildan Permana   NIM : 10121075</string>
+    <string name="about3">Tanggal : 9 Juni 2024</string>
+    <string name="ds_diri">Saya seorang mahasiswa Universitas Komputer Indonesia dari jurusan Teknik Informatika, saya suka mendengarkan dan bermain alat musik serta saya juga suka bermain game </string>
+
+    <!-- Resource Menu Daily -->
+    <string name="h_kuliah">Berangkat Kuliah</string>
+    <string name="sub_kuliah">Melakukan kewajiban kuliah sesuai dengan jadwal pembelajaran</string>
+    <string name="h_musik">Bermain Alat Musik</string>
+    <string name="sub_musik">Melakukan hobi bermain alat musik ketika senggang</string>
+    <string name="h_games">Bermain Game</string>
+    <string name="sub_games">Bermain game pada waktu luang </string>
+    <string name="h_lari">Berlari Pagi Hari</string>
+    <string name="sub_lari">Melakukan rutinitas berlari di pagi hari</string>
+    <string name="h_basket">Bermain Basket</string>
+    <string name="sub_basket">Bermain basket bersama teman-teman </string>
+    <string name="h_berenang">Berenang</string>
+    <string name="sub_berenang">Melakukan olahraga berenang ketika weekend</string>
+    <string name="h_tugas">Mengerjakan Tugas</string>
+    <string name="sub_tugas">Mengerjakan tugas sebelum deadline</string>
+
+    <string name="my_daily">--MY DAILY--</string>
+    <string name="my_friend_list">--MY FRIEND LIST--</string>
+
+
+    <!-- Resource Menu Gallery -->
+    <string name="txt_my_gallery">--MY GALLERY--</string>
+    <string name="txt_artapela">Camping di Artapela</string>
+    <string name="txt_lari">Lari di Cimaung</string>
+    <string name="txt_dilan">Motor Dilan</string>
+    <string name="txt_nimo">Foto di Nimo Highland</string>
+    <string name="txt_basket">Bermain Basket</string>
+    <string name="txt_braga">Foto di Braga</string>
+    <string name="txt_kereta">Foto estetik kereta</string>
+    <string name="txt_cafe">Foto kopi di cafe</string>
+
+    <!-- Resource Music Gallery -->
+    <string name="daily_mix_2">Daily Mix 2</string>
+    <string name="txt_daily_mix_2">Daily Mix 2</string>
+    <string name="artis1">Akane, Shyane Orok, Eve and more</string>
+    <string name="my_playlist">--MY PLAYLIST--</string>
+
+    <!-- Resource Lainnya -->
+    <string name="next">Next</string>
+    <string name="welcome_to_my_apps">Welcome To My Apps</string>
+    <string name="isi_walk1">Selamat datang di aplikasi data diri saya</string>
+    <string name="introduction">Introduction</string>
+    <string name="isi_walk2">Aplikasi ini berjudul My Apps yang bertujuan untuk memperkenalkan diri saya</string>
+    <string name="lets_started">Lets Started</string>
+    <string name="isi_walk3">Mari mulai berkenalan dengan saya</string>
+
+</resources>
